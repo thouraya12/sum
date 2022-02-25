@@ -1,0 +1,17 @@
+ALGORITHME_Sum
+var
+tab:array_of integer[];
+i,j,sum:integer;
+begin
+write(print array:')
+for i from 0 to tab.length do
+for i from 0 to tab.length do
+if(tab[i]<>tab[j])
+sum:=sum+1;
+end_if
+end_for
+end_for
+write(sum);
+end
+
+
